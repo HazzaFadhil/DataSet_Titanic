@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb154489-0a37-4175-a2e9-ef8f94572e16)# DataSet_Titanic
+DataSet_Titanic
 
 ## Project Portofolio Data Scient
 
