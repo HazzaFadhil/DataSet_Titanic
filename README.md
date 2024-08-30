@@ -1,6 +1,6 @@
 # DataSet_Titanic
 
-## Project Portofolio Data Scient
+## Project Portofolio Data Science
 
 Menganalisis dataset Titanic adalah latihan dalam machine learning dan data science yang memberikan wawasan tentang bagaimana faktor-faktor tertentu mempengaruhi kelangsungan hidup penumpang dalam bencana kapal Titanic. Dataset ini menganalisa seperti usia, jenis kelamin, kelas tiket, dan status keluarga penumpang yang dapat digunakan untuk membangun model prediksi. Dengan menggunakan dataset ini, Anda dapat mempraktikkan teknik eksplorasi data, preprocessing, dan penerapan algoritma machine learning untuk memprediksi hasil (apakah penumpang selamat atau tidak).
 Saya menggunakan DataSet dari Tautan ini : https://www.kaggle.com/competitions/titanic/data?select=train.csv
